@@ -10,7 +10,7 @@ How to Install
 
 pkg update && pkg upgrade
 pkg install git
-pkg install python
+pkg install python2
 git clone https://github.com/RDTUTORIAL/TorjansV.1
 cd TorjansV.1
-python TorjanRd.py
+python2 TorjanRd.py
